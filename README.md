@@ -1,2 +1,2 @@
-# StuartM-s-Repository
+# StuartM-Repository
 Projects done from school or free time
